@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3969d285-a88e-47dc-a8a5-f9ddc0f7811f" name="Changes" comment="Задание 1 Пахомов Богдан" />
+    <list default="true" id="3969d285-a88e-47dc-a8a5-f9ddc0f7811f" name="Changes" comment="коммит какой-то дичи" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727962625939</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="коммит какой-то дичи">
+      <option name="closed" value="true" />
+      <created>1727962834229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727962834229</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание 1 Пахомов Богдан" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 Пахомов Богдан" />
+    <MESSAGE value="коммит какой-то дичи" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммит какой-то дичи" />
   </component>
 </project>
